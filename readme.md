@@ -87,5 +87,19 @@
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
+<h2>
+  If you found this project useful or interesting, please consider giving it a 
+  <a href="https://github.com/dev-star712/dev-star712/#">
+    <img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/star.gif" style="width:25px"> Star
+  </a>.
+  If you'd like to use this template, feel free to 
+  <a href="https://github.com/dev-star712/dev-star712/fork">
+    Fork
+  </a> 
+  it and customize it to your needs!
+</h2> 
+
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+
 
 
